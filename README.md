@@ -1,2 +1,1 @@
-# rate-limiter-algos
-# rate-limiter-algos
+AIT, Nurmukhammed Kalmamatov 
